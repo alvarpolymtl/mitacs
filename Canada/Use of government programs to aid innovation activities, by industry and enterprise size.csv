@@ -1,0 +1,44 @@
+﻿"Use of government programs to aid innovation activities, by industry and enterprise size"
+"Occasional"
+"Table: 27-10-0238-01"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+
+"","Canada",,,,,
+"","Total, all enterprise sizes",,,,,
+"","2017 / 2019",,,,,
+"North American Industry Classification System (NAICS)","Government tax incentive or tax credit programs","Government grants and contributions programs","Government training and hiring programs","Government procurement","Other government programs","Any government programs"
+"","Percent",,,,,
+"Total, all surveyed industries 2","14.5A","10.8A","17.3A","2.2A","2.9A","30.5A"
+"Agriculture, forestry, fishing and hunting","19.1B","28.7B","17.0B","7.4B","8.8B","46.5B"
+"Mining, quarrying, and oil and gas extraction","14.7A","9.2A","8.2A","1.6A","2.1A","24.9A"
+"Utilities","15.5A","25.9A","15.2A","1.1A","1.9A","39.1A"
+"Construction","5.8A","6.6B","18.4B","2.1A","1.4A","25.3B"
+"Manufacturing","36.1A","23.7A","26.3A","3.1A","6.6A","55.4A"
+"Total, selected services industries 3","10.5A","7.3A","14.7A","1.7A","2.0A","24.0A"
+"Wholesale trade","10.7A","8.7A","12.7A","2.5A","2.9A","25.3A"
+"Retail trade","2.7A","2.0A","14.3B","0.7A","0.3A","17.0B"
+"Transportation and warehousing","5.7A","6.6A","11.1A","1.6A","2.1A","18.7A"
+"All transportation 4","5.4A","6.9A","10.8A","1.5A","2.1A","18.6A"
+"Postal services, couriers and messengers, warehousing and storage 5","8.4A","3.8A","13.2B","2.2A","2.2A","20.0B"
+"Information and cultural industries","38.2B","21.9A","18.3A","2.7A","4.8A","48.9B"
+"Finance and insurance excluding monetary authorities 6","16.3A","5.3A","16.5A","2.3A","2.4A","24.0A"
+"Real estate and rental and leasing","6.0B","12.1B","7.1A","1.2A","0.4A","20.0B"
+"Professional, scientific and technical services","29.0A","17.7A","24.8B","2.7A","4.8A","45.1B"
+"Management of companies and enterprises","8.9A","7.3A","14.6A","0.4A","1.4A","20.5A"
+"Administrative and support, waste management and remediation services","3.3A","1.6A","9.5B","1.7A","1.5A","13.3B"
+
+Symbol legend:
+A,data quality: excellent,
+B,data quality: very good,
+
+Footnotes:
+1,Regional distribution by size of enterprise is not available.
+2,"Includes North American Industry Classification System (NAICS) codes 11, 21, 22, 23, 31-33, 41, 44-45, 48-49, 51, 52, 53, 54, 55 and 56."
+3,"Includes North American Industry Classification System (NAICS) codes 41, 44-45, 48-49, 51, 52, 53, 54, 55 and 56."
+4,"Includes North American Industry Classification System (NAICS) codes 481, 482, 483, 484, 485, 486, 487 and 488."
+5,"Includes North American Industry Classification System (NAICS) codes 491, 492 and 493."
+6,Includes North American Industry Classification System (NAICS) codes 52 except 521.
+
+"How to cite: Statistics Canada. Table 27-10-0238-01 Use of government programs to aid innovation activities, by industry and enterprise size"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2710023801
+DOI: https://doi.org/10.25318/2710023801-eng

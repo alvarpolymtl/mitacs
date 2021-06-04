@@ -1,0 +1,45 @@
+﻿"Product or process innovations with environmental benefits, by industry and enterprise size"
+"Occasional"
+"Table: 27-10-0149-01"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+
+"","Canada",,,,,
+"","Total, all enterprise sizes",,,,,
+"","2017 / 2019",,,,,
+"North American Industry Classification System (NAICS)","Innovations with environmental benefits from production through efficient use of resources 2","Improved resource efficiency through reduced material use per unit of output","Improved resource efficiency through reduced energy use per unit of output","Improved resource efficiency by replacing material with less greenhouse-gas-intensive alternatives","Reduced consumption of resources through recycling (water, waste or material)","Renewable fuels (ethanol, biodiesel, biogas, biochar, hydrogen)"
+"","Percent",,,,,
+"Total, all surveyed industries 3","49.3A","22.3A","23.5A","15.4A","32.8A","4.8A"
+"Agriculture, forestry, fishing and hunting","58.2B","34.8B","43.3B","30.0B","37.6B","11.4B"
+"Mining, quarrying, and oil and gas extraction","57.0B","33.9B","37.6B","17.6A","36.2B","8.0A"
+"Utilities","52.5B","26.0B","39.2B","20.7A","28.8A","14.8A"
+"Construction","54.6B","15.3B","24.8B","16.4B","34.6B","4.6A"
+"Manufacturing","57.0A","35.5A","32.8A","15.6A","33.7A","3.1A"
+"Total, selected services industries 4","45.3A","19.4A","19.3A","14.5A","31.9A","5.0A"
+"Wholesale trade","46.1B","23.9B","23.1A","14.9A","30.9B","6.8A"
+"Retail trade","54.6B","18.7B","20.2B","15.1B","42.4B","4.2A"
+"Transportation and warehousing","57.0B","19.5B","29.8B","29.5B","37.8B","15.1B"
+"All transportation 5","57.2B","19.8B","30.4B","30.7B","38.4B","16.1B"
+"Postal services, couriers and messengers, warehousing and storage 6","54.9B","15.8B","24.7B","17.1B","32.5B","5.4B"
+"Information and cultural industries","24.9A","9.1A","9.1A","6.7A","16.1A","1.6A"
+"Finance and insurance excluding monetary authorities 7","36.1B","21.4B","17.7A","14.7A","27.0A","0.8A"
+"Real estate and rental and leasing","35.9B","11.9B","23.7B","17.6B","20.8B","1.5A"
+"Professional, scientific and technical services","36.1B","18.8A","13.7A","8.5A","23.4B","3.0A"
+"Management of companies and enterprises","44.3A","19.9A","22.3A","10.4A","32.7A","6.0A"
+"Administrative and support, waste management and remediation services","37.7B","21.1B","13.7B","10.3B","24.0B","3.6A"
+
+Symbol legend:
+A,data quality: excellent,
+B,data quality: very good,
+
+Footnotes:
+1,Regional distribution by size of enterprise is not available.
+2,"""Innovations with environmental benefits from production through efficient use of resources"" includes enterprises that introduced product or process innovations with any of the specified environmental benefits."
+3,"Includes North American Industry Classification System (NAICS) codes 11, 21, 22, 23, 31-33, 41, 44-45, 48-49, 51, 52, 53, 54, 55 and 56."
+4,"Includes North American Industry Classification System (NAICS) codes 41, 44-45, 48-49, 51, 52, 53, 54, 55 and 56."
+5,"Includes North American Industry Classification System (NAICS) codes 481, 482, 483, 484, 485, 486, 487 and 488."
+6,"Includes North American Industry Classification System (NAICS) codes 491, 492 and 493."
+7,Includes North American Industry Classification System (NAICS) codes 52 except 521.
+
+"How to cite: Statistics Canada. Table 27-10-0149-01 Product or process innovations with environmental benefits, by industry and enterprise size"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2710014901
+DOI: https://doi.org/10.25318/2710014901-eng

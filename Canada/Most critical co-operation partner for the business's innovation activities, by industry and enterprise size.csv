@@ -1,0 +1,48 @@
+﻿"Most critical co-operation partner for the business's innovation activities, by industry and enterprise size"
+"Occasional"
+"Table: 27-10-0193-01 (formerly CANSIM 358-0604)"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+
+"","Canada",,,,,,,,,,
+"","Total, all enterprise sizes",,,,,,,,,,
+"","2017 / 2019",,,,,,,,,,
+"North American Industry Classification System (NAICS)","Parent, affiliated or subsidiary businesses, most critical","Suppliers of equipment, materials, components or software, most critical","Clients or customers from the private sector, most critical","Clients or customers from the public sector, most critical","Competitors or other businesses in the sector, most critical","Consultants and commercial laboratories, most critical","Universities, colleges or other higher education institutions, most critical","Government, public or private research institutes, most critical","Non-profit organizations, most critical 2","Households or individuals, most critical 2","Other partners, most critical"
+"","Percent",,,,,,,,,,
+"Total, all surveyed industries 3","28.7B","33.0B","13.1A","2.1A","6.9A","5.3A","3.5A","2.1A","1.2A","0.3A","3.9A"
+"Agriculture, forestry, fishing and hunting","18.8B","30.7E","13.7B","0.4A","19.1E","3.9B","4.4B","0.6A","3.6B","0.2A","4.6B"
+"Mining, quarrying, and oil and gas extraction","15.3B","47.8B","9.0B","4.3A","5.9A","6.1B","3.4A","4.9A","0.0E","0.0E","3.4A"
+"Utilities","20.6B","19.0B","21.3B","2.5A","3.5A","0.0E","12.6A","9.7A","0.0E","0.0E","10.8B"
+"Construction","18.7E","F","10.0B","0.1A","7.4B","16.2E","0.2A","0.3A","0.0E","0.0E","4.0B"
+"Manufacturing","18.4A","34.5B","22.3B","1.5A","2.6A","6.7A","5.9A","5.4A","0.4A","0.4A","1.9A"
+"Total, selected services industries 4","34.4B","30.9B","10.5A","2.6A","7.7A","3.4A","3.1A","1.3A","1.5A","0.2A","4.4A"
+"Wholesale trade","26.9B","43.0B","15.8B","1.2A","1.2A","3.8A","1.5A","1.5A","0.9A","0.0E","4.3A"
+"Retail trade","54.9E","19.1E","0.2A","0.0E","12.0B","4.3B","2.6B","0.0A","0.1A","0.0E","6.8B"
+"Transportation and warehousing","19.6B","33.0B","15.6E","4.3B","17.5B","2.7A","0.7A","0.9A","1.8A","0.0E","4.0A"
+"All transportation 5","18.2B","34.7B","13.6E","4.6B","19.5B","3.0A","0.8A","1.0A","2.0A","0.0E","2.7A"
+"Postal services, couriers and messengers, warehousing and storage 6","31.9E","18.8B","32.7E","1.7A","0.0E","0.0E","0.0E","0.0E","0.0E","0.0E","15.0E"
+"Information and cultural industries","33.3C","26.8C","10.6C","2.1B","5.7C","1.8B","8.1C","4.0B","0.0E","0.9B","6.7B"
+"Finance and insurance excluding monetary authorities 7","29.3B","42.5B","6.7B","0.5A","9.5B","6.1B","0.8A","0.1A","0.2A","0.2A","4.1A"
+"Real estate and rental and leasing","26.2E","16.7B","15.8E","16.8E","1.5A","4.1A","1.6A","0.0E","12.0E","0.0E","5.3B"
+"Professional, scientific and technical services","20.0B","18.3B","26.5B","6.8B","7.6B","1.0A","8.7B","4.1A","3.6B","1.1A","2.4A"
+"Management of companies and enterprises","57.8B","14.8B","4.4A","0.0E","3.2A","11.9B","1.9A","0.0E","3.0A","0.0E","2.9A"
+"Administrative and support, waste management and remediation services","28.0E","61.2E","4.1B","1.1B","0.9B","2.1B","0.3B","0.8B","0.6B","0.0E","0.9B"
+
+Symbol legend:
+E,use with caution,
+F,too unreliable to be published,
+A,data quality: excellent,
+B,data quality: very good,
+C,data quality: good,
+
+Footnotes:
+1,Regional distribution by size of enterprise is not available.
+2,Response category was introduced in 2019.
+3,"Includes North American Industry Classification System (NAICS) codes 11, 21, 22, 23, 31-33, 41, 44-45, 48-49, 51, 52, 53, 54, 55 and 56."
+4,"Includes North American Industry Classification System (NAICS) codes 41, 44-45, 48-49, 51, 52, 53, 54, 55 and 56."
+5,"Includes North American Industry Classification System (NAICS) codes 481, 482, 483, 484, 485, 486, 487 and 488."
+6,"Includes North American Industry Classification System (NAICS) codes 491, 492 and 493."
+7,Includes North American Industry Classification System (NAICS) codes 52 except 521.
+
+"How to cite: Statistics Canada. Table 27-10-0193-01 Most critical co-operation partner for the business's innovation activities, by industry and enterprise size"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2710019301
+DOI: https://doi.org/10.25318/2710019301-eng
