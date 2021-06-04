@@ -1,0 +1,54 @@
+﻿"Emploi selon l'industrie, données annuelles" 1 2 3
+"Annuelle"
+"Tableau: 14-10-0202-01 (anciennement CANSIM 281-0024)"
+"Géographie: Canada, Province ou territoire"
+
+"";"Québec";;;;;;;;;;;;;;;;;;;
+"";"Ensemble des salariés 4";;;;;;;;;;;;;;;;;;;
+"Système de classification des industries de l'Amérique du Nord (SCIAN) 3";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020"
+"";"Personnes";;;;;;;;;;;;;;;;;;;
+"Ensemble des industries incluant les entreprises non classifiées  [00-91N] 5 6";"3 060 913";"3 107 861";"3 169 788";"3 207 402";"3 245 609";"3 305 287";"3 353 748";"3 391 968";"3 363 080A";"3 396 536A";"3 433 714A";"3 475 793A";"3 487 314A";"3 489 910A";"3 498 441A";"3 537 754A";"3 604 665A";"3 692 454A";"3 794 902A";"3 516 903B"
+"Ensemble des industries excluant les entreprises non classifiées  [11-91N] 5 6";"3 047 270";"3 092 329";"3 144 278";"3 176 861";"3 217 420";"3 265 400";"3 307 114";"3 342 707";"3 314 537A";"3 338 463A";"3 373 918A";"3 412 089A";"3 435 534A";"3 434 345A";"3 431 786A";"3 467 082A";"3 532 251A";"3 622 042A";"3 737 606A";"3 465 908B"
+"Branche productrice de biens  [11-33N] 7";"731 837";"727 154";"732 447";"727 775";"716 876";"705 996";"691 319";"673 180";"641 730A";"642 821A";"652 850A";"662 108A";"651 836A";"643 087A";"635 785A";"642 745A";"660 270A";"684 929A";"712 081A";"665 614B"
+"Foresterie, exploitation et soutien  [11N] 8";"19 888";"19 385";"18 543";"17 746";"17 300";"16 789";"15 340";"13 447";"12 289A";"11 457A";"10 927A";"10 636A";"9 526A";"9 200A";"9 186A";"9 408A";"9 273A";"9 194A";"9 275A";"8 656B"
+"Extraction minière, exploitation en carrière, et extraction de pétrole et de gaz  [21]";"11 143";"11 839";"12 257";"11 720";"11 635";"12 097";"13 206";"13 941";"11 809A";"12 921A";"14 176A";"17 176A";"17 875A";"17 095A";"15 537A";"16 277A";"17 659A";"19 675A";"19 613A";"19 340B"
+"Services publics  [22,221]";"24 890";"24 902";"26 052";"30 719";"31 099";"30 117";"30 279";"31 116";"29 151A";"27 657A";"30 258B";"30 088A";"28 842A";"27 903A";"27 336A";"28 325A";"28 580A";"27 580A";"28 776A";"27 554B"
+"Construction  [23]";"121 517";"128 161";"135 994";"143 748";"145 758";"145 908";"148 119";"158 728";"163 966A";"170 932A";"178 295A";"186 857A";"187 187A";"186 474A";"179 012A";"182 173A";"186 174A";"195 566A";"206 667A";"195 981B"
+"Fabrication  [31-33]";"554 399";"542 867";"539 600";"523 842";"511 084";"501 085";"484 375";"455 948";"424 516A";"419 855A";"419 194A";"417 350A";"408 406A";"402 415A";"404 714A";"406 563A";"418 584A";"432 915A";"447 750A";"414 083B"
+"Branche productrice de services  [41-91N] 9";"2 315 433";"2 365 175";"2 411 831";"2 449 085";"2 500 544";"2 559 404";"2 615 795";"2 669 527";"2 672 807A";"2 695 642A";"2 721 068A";"2 749 982A";"2 783 699A";"2 791 258A";"2 796 001A";"2 824 337A";"2 871 981A";"2 937 113A";"3 025 524A";"2 800 294B"
+"Commerce  [41-45N] 10";"533 291";"551 808";"568 710";"580 850";"588 788";"610 141";"631 678";"639 402";"631 862A";"629 668A";"622 749A";"623 110A";"623 832A";"618 648A";"617 079A";"615 815A";"615 008A";"619 000A";"629 664A";"576 867B"
+"Transport et entreposage  [48-49]";"128 982";"132 916";"133 972";"140 290";"142 514";"144 164";"145 946";"146 547";"145 986A";"146 996A";"150 302A";"150 958A";"152 842A";"151 698A";"154 002A";"156 980A";"160 835A";"162 213A";"167 519A";"157 208B"
+"Industrie de l'information et industrie culturelle  [51]";"77 876";"76 451";"73 942";"72 946";"74 419";"74 593";"76 710";"76 933";"75 705A";"76 200A";"78 863A";"78 638A";"78 074A";"76 146A";"76 955A";"76 375A";"76 125A";"75 231A";"75 121A";"70 410B"
+"Finance et assurances  [52]";"x";"125 648";"x";"132 260";"134 619";"138 796";"143 128";"145 712";"146 857A";"150 558A";"152 157A";"150 983A";"150 672A";"149 801A";"149 617A";"146 726A";"146 968A";"149 129A";"149 891A";"149 146A"
+"Services immobiliers et services de location et de location à bail  [53]";"x";"45 455";"x";"47 138";"48 443";"48 863";"50 483";"50 728";"50 467A";"51 276A";"52 407A";"53 758A";"55 838A";"56 617A";"55 686A";"55 868A";"57 250A";"57 741A";"58 853A";"46 784B"
+"Services professionnels, scientifiques et techniques  [54,541]";"147 101";"146 967";"147 909";"148 931";"153 812";"158 669";"162 986";"171 100";"171 809A";"175 622A";"178 897A";"181 220A";"181 367A";"181 314A";"183 361A";"184 177A";"194 735A";"207 419A";"217 523A";"217 886B"
+"Gestion de sociétés et d'entreprises  [55,551,5511]";"17 732";"17 730";"17 830";"17 759";"17 721";"17 721";"17 787";"17 789";"17 797A";"17 498A";"17 142A";"20 805A";"21 277A";"20 079A";"20 136A";"20 049A";"19 760A";"22 609A";"23 021A";"22 758B"
+"Services administratifs, services de soutien, services de gestion des déchets et services d'assainissement  [56]";"120 477";"128 535";"130 722";"132 903";"139 400";"145 742";"150 842";"154 208";"146 858A";"146 960A";"148 734A";"149 395A";"154 742A";"159 934A";"158 538A";"163 531A";"167 669A";"166 458A";"172 970A";"158 420B"
+"Services d'enseignement  [61,611]";"248 867";"253 904";"253 269";"256 080";"257 734";"260 997";"265 890";"271 013";"274 935A";"275 536A";"276 749A";"281 510A";"291 966A";"297 013A";"297 376A";"298 543A";"306 871A";"315 785A";"327 017A";"313 272A"
+"Soins de santé et assistance sociale  [62]";"327 017";"335 105";"343 165";"350 361";"356 974";"362 975";"367 995";"374 222";"384 012A";"392 285A";"400 913A";"410 969A";"419 268A";"425 929A";"429 869A";"436 807A";"446 490A";"465 281A";"478 995A";"482 256B"
+"Arts, spectacles et loisirs  [71]";"45 379";"49 041";"50 581";"50 794";"51 739";"54 025";"53 549";"54 818";"55 847A";"55 784A";"56 752A";"57 042A";"59 362A";"59 222A";"59 034A";"60 996A";"62 476A";"63 357A";"65 068A";"46 415B"
+"Services d'hébergement et de restauration  [72]";"195 649";"203 759";"205 860";"204 210";"209 008";"214 151";"219 354";"226 031";"225 558A";"225 618A";"229 971A";"238 367A";"240 990A";"239 571A";"243 046A";"250 530A";"255 955A";"262 885A";"273 190A";"190 104B"
+"Autres services (sauf les administrations publiques)  [81]";"107 927";"110 355";"111 865";"112 251";"114 211";"115 354";"114 589";"116 079";"115 246A";"116 849A";"118 423A";"119 177A";"119 408A";"119 334A";"119 473A";"120 528A";"121 985A";"123 674A";"128 399A";"111 296A"
+"Administrations publiques  [91]";"198 619";"187 500";"201 047";"202 312";"211 162";"213 213";"214 856";"224 945";"229 867A";"234 792A";"237 009A";"234 049A";"234 063A";"235 954A";"231 828A";"237 413A";"239 853A";"246 331A";"258 293A";"257 470A"
+"Entreprises non classifiées  [00] 6";"13 643";"15 532";"25 511";"30 541";"28 188";"39 887";"46 634";"49 261";"48 543A";"58 073A";"59 795A";"63 704A";"51 779A";"55 565A";"66 655A";"70 672A";"72 413A";"70 412A";"57 296A";"50 995B"
+
+Légende des symboles:
+X;confidentiel en vertu des dispositions de la Loi sur la statistique;
+A;qualité des données : excellente;
+B;qualité des données : très bonne;
+
+Renvois :
+1;"Les indicateurs de qualité tiennent compte de plusieurs facteurs susceptibles d’avoir un effet sur la qualité des données, tels que les c.v., l’erreur due à la non-réponse et l’erreur due à l’imputation. Ils indiquent ce qui suit : A - Excellent; B - Très bon; C - Bon; D - Acceptable; E - À utiliser avec prudence; F - Trop peu fiable pour être publié ou l'échantillon est trop petit pour produire des estimations fiables."
+2;L'introduction de données administratives en 2001 et le changement associé en méthodologie ont eu pour effet de décaler le niveau pour certaines séries. Cela se répercute sur la comparabilité des estimations préalables et postérieures à 2001.
+3;Les estimations par industrie sont fondées sur le Système de classification des industries de l'Amérique du Nord (SCIAN) de 2017 version 3.0.
+4;"« Ensemble des salariés » est l'ensemble des salariés rémunérés à l'heure, des employés à salaire fixe et des autres salariés."
+5;"Le regroupement « ensemble des industries » comprend tous les secteurs industriels sauf ceux dont les activités relèvent des secteurs de l'agriculture, de la pêche et du piégeage, des services domestiques aux ménages privés, des organismes religieux et du personnel militaire des services de la défense."
+6;Le regroupement « entreprises non classifiées » (00) comprend les entreprises dont la classification industrielle (Système de classification des industries de l'Amérique du Nord [SCIAN] 2017 version 3.0) n'a pas encore été assignée.
+7;"La branche productrice de biens (11-33N) comprend les secteurs suivants : la foresterie, exploitation et soutien (11N), l'extraction minière, l'exploitation en carrière, et l'extraction de pétrole et de gaz (21), les services publics (22), la construction (23) et la fabrication (31-33)."
+8;"Le regroupement « foresterie, exploitation et soutien » (11N) comprend les industries suivantes : la foresterie et exploitation forestière (113) et les activités de soutien à la foresterie (1153)."
+9;"La branche productrice de services (41-91N) comprend les secteurs suivants : commerce (41-45N), transport et entreposage (48-49), industrie de l'information et industrie culturelle (51), finance et assurances (52), services immobiliers et services de location et de location à bail (53), services professionnels, scientifiques et techniques (54), gestion de sociétés et d'entreprises (55), services administratifs, services de soutien, services de gestion des déchets et services d'assainissement (56), services d'enseignement (61), soins de santé et assistance sociale (62), arts, spectacles et loisirs (71), services d'hébergement et de restauration (72), autres services (sauf les administrations publiques) (81) et administrations publiques (91)."
+10;Le regroupement « commerce » (41-45N) comprend les secteurs suivants : commerce de gros (41) et commerce de détail (44-45).
+
+"Comment citer le produit :Statistique Canada. Tableau 14-10-0202-01 Emploi selon l'industrie, données annuelles"
+https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=1410020201
+DOI :https://doi.org/10.25318/1410020201-fra

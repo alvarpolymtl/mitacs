@@ -1,0 +1,47 @@
+﻿"Programme gouvernemental le plus essentiel aux activités d'innovation de l'entreprise, selon l'industrie et la taille de l’entreprise"
+"Occasionnelle"
+"Tableau: 27-10-0280-01 (anciennement CANSIM 358-0606)"
+"Géographie: Canada, Région géographique du Canada, Province ou territoire"
+
+"";"Québec";;;;
+"";"Total, toutes les entreprises";;;;
+"";"2017 - 2019";;;;
+"Système de classification des industries de l'Amérique du Nord (SCIAN)";"Programmes gouvernementaux d'incitation fiscale ou de crédit d'impôt, le plus essentiel";"Programmes gouvernementaux de subventions et contributions, le plus essentiel";"Programmes gouvernementaux de formation et d'embauche, le plus essentiel";"Marchés publics, le plus essentiel";"Autres programmes gouvernementaux, le plus essentiel"
+"";"Pourcent";;;;
+"Total, toutes les industries sondées 2";"35,4A";"24,8A";"34,4B";"0,7A";"4,6A"
+"Agriculture, foresterie, pêche et chasse";"16,3E";"59,3E";"19,9E";"0,0E";"4,5B"
+"Extraction minière, exploitation en carrière, et extraction de pétrole et de gaz";"40,8B";"32,3B";"26,9B";"0,0E";"0,0E"
+"Services publics";"41,7C";"11,5B";"46,8C";"0,0E";"0,0E"
+"Construction";"13,5E";"8,8B";"65,5E";"0,0E";"12,2E"
+"Fabrication";"46,1B";"31,8B";"18,7A";"0,9A";"2,5A"
+"Total, industries de services sélectionnées 3";"34,7C";"20,9C";"39,4C";"0,8B";"4,3B"
+"Commerce de gros";"35,4B";"34,1B";"25,0B";"1,6A";"3,9A"
+"Commerce de détail";"3,5C";"5,0C";"87,3C";"0,0E";"4,2C"
+"Transport et entreposage";"19,6B";"48,6E";"14,7B";"3,6B";"13,5B"
+"Tous les transports 4";"19,3E";"51,0E";"12,5B";"3,9B";"13,3B"
+"Services postaux, messageries et services de messagers, et entreposage 5";"24,5B";"15,7B";"43,7E";"0,0E";"16,1B"
+"Industrie de l'information et industrie culturelle";"70,4B";"16,1B";"9,6B";"1,9A";"2,0A"
+"Finance et assurances excluant les autorités monétaires 6";"15,8E";"5,2E";"79,1E";"0,0E";"0,0E"
+"Services immobiliers et services de location et de location à bail";"5,2A";"F";"F";"0,0E";"2,3A"
+"Services professionnels, scientifiques et techniques";"59,4C";"14,9C";"25,5C";"0,0E";"0,2B"
+"Gestion de sociétés et d'entreprises";"54,6B";"4,7B";"37,3B";"0,0E";"3,5A"
+"Services administratifs, services de soutien, services de gestion des déchets et services d'assainissement";"8,2B";"26,9E";"F";"0,0E";"F"
+
+Légende des symboles:
+E;à utiliser avec prudence;
+F;trop peu fiable pour être publié;
+A;qualité des données : excellente;
+B;qualité des données : très bonne;
+C;qualité des données : bonne;
+
+Renvois :
+1;La distribution régionale par taille d'entreprise n'est pas disponible.
+2;"Comprend les codes 11, 21, 22, 23, 31-33, 41, 44-45, 48-49, 51, 52, 53, 54, 55 et 56 du Système de classification des industries de l'Amérique du Nord (SCIAN)."
+3;"Comprend les codes 41, 44-45, 48-49, 51, 52, 53, 54, 55 et 56 du Système de classification des industries de l'Amérique du Nord (SCIAN)."
+4;"Comprend les codes 481, 482, 483, 484, 485, 486, 487 et 488 du Système de classification des industries de l'Amérique du Nord (SCIAN)."
+5;"Comprend les codes 491, 492 et 493 du Système de classification des industries de l'Amérique du Nord (SCIAN)."
+6;Comprend les codes 52 sauf 521 du Système de classification des industries de l'Amérique du Nord (SCIAN).
+
+"Comment citer le produit :Statistique Canada. Tableau 27-10-0280-01 Programme gouvernemental le plus essentiel aux activités d'innovation de l'entreprise, selon l'industrie et la taille de l’entreprise"
+https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=2710028001
+DOI :https://doi.org/10.25318/2710028001-fra
